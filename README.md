@@ -12,3 +12,12 @@
 
 ### Spring Core 
 * https://github.com/diiiiiiiino/mindmap/blob/main/img/Spring%20Core.png
+
+### Spring MVC
+* https://github.com/diiiiiiiino/mindmap/blob/main/img/Spring%20MVC.png
+
+### Spring JDBC
+* https://github.com/diiiiiiiino/mindmap/blob/main/img/Spring%20JDBC.png
+
+### Spring Boot
+* https://github.com/diiiiiiiino/mindmap/blob/main/img/Spring%20Boot.png
