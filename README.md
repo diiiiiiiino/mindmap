@@ -21,3 +21,6 @@
 
 ### Spring Boot
 * https://github.com/diiiiiiiino/mindmap/blob/main/img/Spring%20Boot.png
+
+### Mysql
+* https://github.com/diiiiiiiino/mindmap/blob/main/img/MySql.png
